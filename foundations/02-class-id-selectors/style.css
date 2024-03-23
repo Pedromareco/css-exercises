@@ -1,0 +1,18 @@
+#blue {
+    color: rgba(10, 14, 233, 0.452);
+    font-size: 36px;
+}
+
+#green {
+    background-color: rgb(49, 182, 93);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.odd-numbered {
+    background-color: rgb(206, 109, 109);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+.size {
+    font-size: 24px;
+}
